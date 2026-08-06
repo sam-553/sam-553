@@ -116,31 +116,28 @@
 
 ---
 
-# 🐍 Contribution Snake
+
+
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/sam-553/sam-553/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## 📈 Profile Summary
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sam-553&theme=tokyonight" alt="Profile Details"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Watch+the+snake+eat+my+contributions!;Consistency+beats+intensity.;Keep+Coding+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sam-553&theme=tokyonight" alt="Repos per Language"/>
-  
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sam-553&theme=tokyonight" alt="Most Commit Language"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sam-553/sam-553/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sam-553/sam-553/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/sam-553/sam-553/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sam-553&theme=tokyonight" alt="Stats"/>
-  
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sam-553&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+  <b>💚 Every contribution counts!</b>
 </p>
+
+
+
 
 ---
 
